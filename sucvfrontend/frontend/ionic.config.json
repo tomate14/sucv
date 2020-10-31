@@ -1,0 +1,7 @@
+{
+  "name": "tramita2",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
